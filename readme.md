@@ -1,5 +1,5 @@
 # Spam Email Detector
-This is a Spam Email Detector built using Naive Bayes. It's implemented from scratch using pythong and using inbuilt libraries also.
+This is a Spam Email Detector built using Naive Bayes. It's implemented from scratch using python and using inbuilt libraries also.
 
 
 Give it a ⭐ if you liked it!
